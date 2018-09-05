@@ -1,0 +1,19 @@
+{
+  "name": "rnmaps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Yuri Faria",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "formidable": "^1.2.1",
+    "mongoose": "^5.2.12",
+    "sharp": "^0.20.7"
+  }
+}
