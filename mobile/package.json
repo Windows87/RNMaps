@@ -9,7 +9,7 @@
   "dependencies": {
     "babel-preset-react-native": "4.0.0",
     "react": "16.4.1",
-    "react-native": "0.55.4",
+    "react-native": "0.70.2",
     "react-native-auto-height-image": "^1.0.1",
     "react-native-image-crop-picker": "^0.21.1",
     "react-native-maps": "^0.21.0",
