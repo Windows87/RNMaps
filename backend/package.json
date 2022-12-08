@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.4",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "formidable": "^1.2.1",
     "mongoose": "^5.2.12",
     "sharp": "^0.20.7"
